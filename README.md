@@ -10,7 +10,7 @@
 ---
 
 ## 1. <a name="visao-geral-do-sistema">Visão Geral</a>
-O projeto foi desenvolvido para obter nota da disciplina de Projeto Integrador 1 do 1º périodo de ADS do IFPE, estimulado pelo professor Delano. Consiste em uma plataforma de curso voltada para ensinar o básico de lógica de programção e Python para alunos novatos na área de programação. A estrutura do site é composta por um sistema de login, áreas personalizadas para cada usuário, módulos de curso com imagens de apoio e a possibilidade de geração de certificados ao final, conforme feito o projeto final. O conteúdo do site foi feito pelos meus colegas de equipe, na qual dentro do site, na área de "sobre nós", cada credito está especificado com: nome e sobrenome, redes sociais (se houver) e o módulo no qual cada um foi responsável.
+O projeto foi desenvolvido para obter nota da disciplina de Projeto Integrador 1 do 1º périodo de ADS do IFPE, estimulado pelo professor Delano. Consiste em uma plataforma de curso voltada para ensinar o básico de lógica de programção e Python para alunos novatos na área de programação. A estrutura do site é composta por um sistema de login, áreas personalizadas para cada usuário, módulos de curso com imagens de apoio e a possibilidade de geração de certificados ao final, conforme feito o projeto final, o certificado está disponível <a href="https://drive.google.com/drive/u/1/folders/1mbAD0qUtLqmWXZ-ruOExX3x1UV3mD6Px" target="_blank">aqui</a>. O conteúdo do site foi feito pelos meus colegas de equipe, na qual dentro do site, na área de "sobre nós", cada credito está especificado com: nome e sobrenome, redes sociais (se houver) e o módulo no qual cada um foi responsável.
 
 ## 2. <a name="estrutura-do-projeto">Estrutura </a>
 
